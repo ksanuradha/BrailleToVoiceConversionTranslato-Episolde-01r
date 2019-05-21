@@ -1,0 +1,576 @@
+First Column of Brailee : 0.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 4.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 1.0
+
+Second Column of Brailee : 40.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 48.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 3.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 5.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 8.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 1.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 40.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 5.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 24.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 1.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 24.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 1.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 32.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 0.0
+
+Second Column of Brailee : 32.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 32.0
+
+Second Column of Brailee : 0.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 4.0
+
+First Column of Brailee : 3.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 1.0
+
+Second Column of Brailee : 56.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 32.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 8.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 1.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 32.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 7.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 0.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 5.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 8.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 1.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 16.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 5.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 8.0
+
+First Column of Brailee : 3.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 1.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 5.0
+
+Second Column of Brailee : 48.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 32.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 24.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 4.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 2.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 48.0
+
+Second Column of Brailee : 8.0
+
+Second Column of Brailee : 24.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 6.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 2.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 16.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 1.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 5.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 0.0
+
+First Column of Brailee : 7.0
+
+First Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 16.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 24.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 40.0
+
+Second Column of Brailee : 0.0
+
+Second Column of Brailee : 0.0
+
